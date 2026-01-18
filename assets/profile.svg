@@ -1,0 +1,17 @@
+<svg width="640" height="820" viewBox="0 0 640 820" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">傅嘉玮个人头像</title>
+  <desc id="desc">淡蓝背景上的简洁人物头像插画。</desc>
+  <rect width="640" height="820" rx="36" fill="#EEF2FF" />
+  <circle cx="320" cy="280" r="140" fill="#F8FAFC" />
+  <path d="M180 580C180 487.2 242.2 420 320 420C397.8 420 460 487.2 460 580V640H180V580Z" fill="#CBD5F5" />
+  <path d="M236 262C236 209.2 274.2 168 320 168C365.8 168 404 209.2 404 262V310C404 362.8 365.8 404 320 404C274.2 404 236 362.8 236 310V262Z" fill="#FADBD1" />
+  <path d="M244 248C264 200 296 182 322 182C358 182 388 202 404 238C396 196 368 144 320 144C272 144 248 198 244 248Z" fill="#1E293B" />
+  <path d="M260 310C272 338 295 352 320 352C345 352 368 338 380 310" stroke="#1E293B" stroke-width="8" stroke-linecap="round" />
+  <path d="M250 284C262 284 272 276 272 264C272 252 262 244 250 244C238 244 228 252 228 264C228 276 238 284 250 284Z" fill="#1E293B" />
+  <path d="M390 284C402 284 412 276 412 264C412 252 402 244 390 244C378 244 368 252 368 264C368 276 378 284 390 284Z" fill="#1E293B" />
+  <path d="M220 250C240 230 270 222 300 224" stroke="#334155" stroke-width="10" stroke-linecap="round" />
+  <path d="M420 250C400 230 370 222 340 224" stroke="#334155" stroke-width="10" stroke-linecap="round" />
+  <rect x="200" y="240" width="110" height="70" rx="26" stroke="#1E293B" stroke-width="8" fill="none" />
+  <rect x="330" y="240" width="110" height="70" rx="26" stroke="#1E293B" stroke-width="8" fill="none" />
+  <path d="M310 274H330" stroke="#1E293B" stroke-width="8" stroke-linecap="round" />
+</svg>
